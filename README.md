@@ -13,7 +13,7 @@ Check out my pinned repos for some examples of personal projects I've worked on,
 
 ### 🚌 Bussin
 
-This project uses the AT and Google Maps APIs to display live incoming bus locations as well as their ETAs for the bus stop I use most frequently. Similar to what is available via the AT mobile app.
+This project uses the AT and Google Maps APIs to display live incoming bus locations as well as their ETAs for the bus stop I use most frequently. I got tired of having to pull my phone out, open up the AT app and tap through a few things just to be able to check when the next bus will be, so I started building this so that I could have a live display set up somewhere to view without requiring any interaction.
 
 The web side of things is mostly finished for now, my next steps will be to deploy it somewhere / get it running on a Raspberry PI so that I can display the info in my home.
 
