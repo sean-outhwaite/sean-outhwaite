@@ -11,6 +11,23 @@ Check out my pinned repos for some examples of personal projects I've worked on,
 
 ## Currently working on 🧑‍💻
 
+### 👁️ Dislock
+
+A Discord bot that is used to monitor peoples timeliness when they say they are x minutes away from being ready to play a game of Deadlock. It creates a / command in the installed Discord server that allows you select a user and then logs time info to a Google sheet. This generates a message in the channel with a button that can be clicked to log when the user arrived.
+
+Currently deployed via a DigitalOcean Droplet, using Nginx & PM2.
+
+#### Technology
+
+![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Discord APIs](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+
+
+## Past Projects 🕰️
+
 ### 🚌 Bussin
 
 This project uses the AT and Google Maps APIs to display live incoming bus locations as well as their ETAs for the bus stop I use most frequently. I got tired of having to pull my phone out, open up the AT app and tap through a few things just to be able to check when the next bus will be, so I started building this so that I could have a live display set up somewhere to view without requiring any interaction.
@@ -26,8 +43,6 @@ The web side of things is mostly finished for now, my next steps will be to depl
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-
-## Past Projects 🕰️
 
 ### 🚘 Roadie
 
