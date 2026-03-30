@@ -13,7 +13,7 @@ Check out my pinned repos for some examples of personal projects I've worked on,
 
 ### 👁️ Dislock
 
-A Discord bot that is used to monitor peoples timeliness when they say they are x minutes away from being ready to play a game of Deadlock. It creates a / command in the installed Discord server that allows you select a user and then logs time info to a Google sheet. This generates a message in the channel with a button that can be clicked to log when the user arrived.
+A Discord bot that is used to monitor peoples timeliness when they say they are x minutes away from being ready to play a game of Deadlock. It creates a / command in the installed Discord server that allows you to select a user and then logs time info to a Google sheet. This generates a message in the channel with a button that can be clicked to log when the user arrived.
 
 Currently deployed via a DigitalOcean Droplet, using Nginx & PM2.
 
