@@ -11,6 +11,11 @@ Check out my pinned repos for some examples of personal projects I've worked on,
 
 ## Currently working on 🧑‍💻
 
+### 🛍️ [Shoplock](https://shoplock.sean-outhwaite.workers.dev/)
+A browser for Deadlock's item shop, styled as close as possible to the in-game version. Allows you to view item stats and descriptions as well as add them into a build. More polish and functionality to come.
+
+Item data (stats, costs, tooltips, upgrade paths, icons) is fetched live from the community deadlock-api.com, and it's currently deployed via cloudflare.
+
 ### 🍿 Decider
 
 A React Native Expo app for my partner and I to make movie/tv recommendations for each other to approve and watch together. Built with TypeScript using Google Firebase for authentication and Firestore to manage the data. 
@@ -19,28 +24,12 @@ A React Native Expo app for my partner and I to make movie/tv recommendations fo
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 👁️ Dislock
-
-A Discord bot that is used to monitor peoples timeliness when they say they are x minutes away from being ready to play a game of Deadlock. It creates a / command in the installed Discord server that allows you to select a user and then logs time info to a Google sheet. This generates a message in the channel with a button that can be clicked to log when the user arrived.
-
-Currently deployed via a DigitalOcean Droplet, using Nginx & PM2.
-
-#### Technology
-
-![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Discord APIs](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-
 
 ## Past Projects 🕰️
 
 ### 🚌 Bussin
 
 This project uses the AT and Google Maps APIs to display live incoming bus locations as well as their ETAs for the bus stop I use most frequently. I got tired of having to pull my phone out, open up the AT app and tap through a few things just to be able to check when the next bus will be, so I started building this so that I could have a live display set up somewhere to view without requiring any interaction.
-
-The web side of things is mostly finished for now, my next steps will be to deploy it somewhere / get it running on a Raspberry PI so that I can display the info in my home.
 
 #### Technology
 
@@ -71,6 +60,20 @@ My final group project at Dev Academy - Roadie is an AI powered roadtrip plannin
 - Vitest for unit testing
 - React Testing Library
 - Supertest for API testing
+
+### 👁️ Dislock
+
+A Discord bot that is used to monitor peoples timeliness when they say they are x minutes away from being ready to play a game of Deadlock. It creates a / command in the installed Discord server that allows you to select a user and then logs time info to a Google sheet. This generates a message in the channel with a button that can be clicked to log when the user arrived.
+
+Currently deployed via a DigitalOcean Droplet, using Nginx & PM2.
+
+#### Technology
+
+![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Discord APIs](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
 
 ### 🦢 [Swan Dive](https://sean-outhwaite.github.io/)
 
