@@ -5,11 +5,12 @@ I've been learning to code in my spare time over the last few years and recently
 
 For the past 6 years I've been working as a Product Manager, so I have a good understanding of the SaaS world and product/development practices. I leant more into the technical side of Product so I have plenty of experience with SQL as well as app management tools like Firebase, Play & App Stores, Unleash, and more.
 
-More recently I've been building projects with React, Express, and Typescript - to build on top of my vanilla JS skills.
-
 Check out my pinned repos for some examples of personal projects I've worked on, and if you want to get in touch you can find me on [LinkedIn](https://www.linkedin.com/in/sean-outhwaite/) 🤝 or my [email inbox is always open](mailto:sean.outhwaite@gmail.com) 📧
 
 ## Currently working on 🧑‍💻
+
+###  🪵 [Backlog](https://backlog-delta-bice.vercel.app/)
+A personal media backlog tracker. Search for tv shows, movies, games, & books and add them to your backlog. Track progress and recommend media to friends.
 
 ### 🛍️ [Shoplock](https://shoplock.sean-outhwaite.workers.dev/)
 A browser for Deadlock's item shop, styled as close as possible to the in-game version. Allows you to view item stats and descriptions as well as add them into a build. More polish and functionality to come.
