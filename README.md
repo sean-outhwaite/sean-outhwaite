@@ -9,7 +9,7 @@ Check out my pinned repos for some examples of personal projects I've worked on,
 
 ## Currently working on 🧑‍💻
 
-###  🪵 [Backlog](https://backlog-delta-bice.vercel.app/)
+###  🪵 [Backlog](https://backlog.outh.nz)
 A personal media backlog tracker. Search for tv shows, movies, games, & books and add them to your backlog. Track progress and recommend media to friends.
 
 ### 🛍️ [Shoplock](https://shoplock.sean-outhwaite.workers.dev/)
