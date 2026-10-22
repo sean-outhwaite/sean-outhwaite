@@ -66,7 +66,7 @@ My final group project at Dev Academy - Roadie is an AI powered roadtrip plannin
 
 A Discord bot that is used to monitor peoples timeliness when they say they are x minutes away from being ready to play a game of Deadlock. It creates a / command in the installed Discord server that allows you to select a user and then logs time info to a Google sheet. This generates a message in the channel with a button that can be clicked to log when the user arrived.
 
-Currently deployed via a DigitalOcean Droplet, using Nginx & PM2.
+The bot itself is no longer online, but it is currently polling player rank information and posting updates to discord via a cron job and GitHub Actions.
 
 #### Technology
 
@@ -74,8 +74,3 @@ Currently deployed via a DigitalOcean Droplet, using Nginx & PM2.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Discord APIs](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-
-### 🦢 [Swan Dive](https://sean-outhwaite.github.io/)
-
-My personal/technical blog built with HTML, JS, & CSS - hosted on GitHub Pages. It contains some smaller projects as well as blog posts about things I've worked on or lessons learnt. I'm not updating the app itself too much anymore but am continuing to add blog posts, so if you wanted to know more about me it's a great place to start!
